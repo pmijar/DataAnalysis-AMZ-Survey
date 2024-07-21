@@ -5,7 +5,7 @@ This data comes to us from the UCI Machine Learning repository and was collected
 ## Findings:
 Observation 1: With increase in temperature coupon usage increased \
 Observation 2: As the time to reach coupon location increases the coupon usage decreased \
-Observation 3: Coffee house coupon category was the most used\
+Observation 3: Coffee house coupon category was the most used
 
 ### Link to Jupyter Notebook
 Link: https://github.com/pmijar/DataAnalysis-AMZ-Survey/blob/main/prompt.ipynb
